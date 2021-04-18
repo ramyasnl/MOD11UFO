@@ -39,7 +39,7 @@ We have recreated Dana’s webpage , by adding more in-depth analysis of UFO sig
 ## Getting Started
 
 So far we have created a  web page which has button called "Filter Table" and a "Enter Date "search box  and a dynamic table ,<br/>we are going to replace the button with separate search boxes for all the columns of the table , leaving the "Duration " and "Comments" column in the table .<br/>
-![]()
+![](![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo1.png)</br>)
 
 
 <!-- results -->
@@ -48,7 +48,9 @@ So far we have created a  web page which has button called "Filter Table" and a 
 In this web page we have 5 filter boxes and a dynamic table which can display the results according to the search criteria <br/>
 The website can also be viewed by following the link below ,
 https://ramyasnl.github.io/MOD11UFO/
-![]()
+![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo1.png)</br>
+![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo2.png)</br>
+![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo3.png)</br>
 <!-- Summary -->
 ## Summary
 One of the drawback of this webpage is we should have some knowledge about the database we have ,which we cannot expect from a random user .<br/>
