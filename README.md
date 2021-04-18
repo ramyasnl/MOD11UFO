@@ -39,9 +39,9 @@ We have recreated Dana’s webpage , by adding more in-depth analysis of UFO sig
 
 ### Built With
 
-* []( JavaScript )
-* []( HTML )
-* [](Visual Studio code)
+* JavaScript
+*  HTML 
+* Visual Studio code
 
 
 
