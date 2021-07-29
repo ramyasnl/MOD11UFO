@@ -1,6 +1,6 @@
 # UFO_Sightings<br/>
 ## Module 11<br/>
-## Click the link to view the web page : https://ramyasnl.github.io/MOD11UFO/  <br/>
+## Click the link to view the web page : https://ramyasnl.github.io/UFO_Sightings/  <br/>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -49,7 +49,7 @@ So far we have created a  web page which has button called "Filter Table" and a 
 
 In this web page we have 5 filter boxes and a dynamic table which can display the results according to the search criteria <br/>
 The website can also be viewed by following the link below ,
-https://ramyasnl.github.io/MOD11UFO/
+## https://ramyasnl.github.io/UFO_Sightings/
 ![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo1.png)</br>
 ![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo2.png)</br>
 ![](https://github.com/ramyasnl/MOD11UFO/blob/main/screenshots/ufo3.png)</br>
